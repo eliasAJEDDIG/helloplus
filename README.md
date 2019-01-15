@@ -6,9 +6,8 @@ L'application développé consiste à parcourir un fichier format CSV composé d
 d'un individu et, pour chacun d'eux, afficher le message Hello <nom> <prenom> !  
 
 
+# Exemple
 
-
-#Exemple
 $./bindist/bin/app --input samples/helloplus.csv
 Hello AJEDDIG ELIAS !
 Hello BRONNER JEREMY !
@@ -19,8 +18,10 @@ Hello TROMBINI TINTIN !
 Hello RUE GUILLAUME !
 $
 
-#Auteur
+# Auteur
+
 Elias AJEDDIG
 
-#Licence
+# Licence
+
 Ce projet est distribué sous forme de licence MIT 
